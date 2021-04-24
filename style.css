@@ -1,0 +1,23 @@
+body{
+background-size: cover;
+}
+h1{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+canvas{
+border: 2px dashed gold;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px rgb(0, 255, 242);
+}
+#fotter{
+position: fixed;
+color: rgb(0, 255, 255);
+bottom: 0;
+width: 100%;
+background-color: rgb(0, 0, 0);
+line-height: 3;
+text-align: center;
+}
